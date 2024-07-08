@@ -74,7 +74,8 @@ The analysis process includes:
 
 - Dashboard: 🥇 Dashboard for all the Visualization
 
-[Doc4.pdf](https://github.com/AnishChakravorty/Bike-Have-Tableau-Dashboard/files/15448624/Doc4.pdf)
+![Dashboard](https://github.com/AnishChakravorty/Bike-Have-Tableau-Dashboard/assets/167467707/f72b434b-2b86-46d5-9697-89bd1d1c8a1f)
+
 
 ## Results
 
